@@ -41,6 +41,7 @@ public class LojaController {
 			// Adicionar os produtos á lista
 			
 						listaDeProdutos.add(p1);
+						listaDeProdutos.add(p2);
 			
 			return "produtos"; 
 			
